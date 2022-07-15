@@ -1,0 +1,29 @@
+*{
+    background-color: beige;
+   
+}
+h1{
+    text-align: center;
+    font-family:'Nunito', sans-serif;
+    font-size: 100px;
+    text-decoration-color: rgba(172, 255, 47, 0.699);
+    color:pink;
+    text-decoration-style:dotted;
+   text-decoration-thickness: 5px;
+   text-decoration-line :line-through;
+   text-shadow:1px 1px 2px black,0 0 25px blue,0 0 5px darkblue;
+    
+}
+p{
+    font-family: 'Cormorant SC', serif;
+    font-weight:700px;
+    color:palevioletred;
+    font-size:30px;
+    text-align:justify;
+    text-align-last: center; 
+}
+a{
+    text-decoration: overline;
+    color:darkorchid;
+   
+}
